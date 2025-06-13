@@ -8,4 +8,3 @@ PyPDF2
 streamlit
 chromadb
 protobuf==4.21.12
-sqlite3
