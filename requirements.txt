@@ -1,0 +1,10 @@
+sentence-transformers
+groq
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+PyPDF2
+streamlit
+chromadb
+protobuf==4.21.12
